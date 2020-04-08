@@ -7,6 +7,8 @@ function build_json_files {
   done
 }
 
+#build_json_files
+#exit
 #assumes one follows these steps
 #https://gist.github.com/CristinaSolana/1885435
 function sync_with_original_repo {
